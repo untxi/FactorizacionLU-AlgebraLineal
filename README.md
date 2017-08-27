@@ -1,6 +1,3 @@
-# FactorizacionLU-AlgebraLineal
-
-
 Tecnológico de Costa Rica
 
 Escuela de Matemáticas
